@@ -46,7 +46,7 @@ python line_counter.py
 When prompted:
 
 ```bash
-Enter the GitHub repository URL: https://github.com/nigeriapython/count_github_repo_code_lines.git
+https://github.com/nigeriapython/count_github_repo_code_lines.git
 ```
 
 ### 4. View Output
